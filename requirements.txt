@@ -1,3 +1,5 @@
 distribute==0.6.34
 selenium==2.37.2
 wsgiref==0.1.2
+pytest==2.4.2
+requests==1.2.3
